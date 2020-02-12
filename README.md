@@ -1,12 +1,12 @@
 # Minimal Distributions of Linux
 
-| Name | Package Manager | Source-based? |
-| ---- | --------------- | ------------- |
-| [Alpine Linux](https://alpinelinux.org/) | `apk` | No |
-| [Arch Linux](https://www.archlinux.org/) (and derivatives) | `pacman` | No |
-| [Ataraxia Linux](https://ataraxialinux.github.io/) | `neko` | No |
-| [CRUX](https://crux.nu/) | `pkgutils` | No |
-| [Gentoo](https://www.gentoo.org/) (and derivatives) | `emerge` (Portage) | Yes |
-| [KISS Linux](https://getkiss.org/)  | `kiss` | Yes |
-| [Venom Linux](https://venomlinux.org/) | `scratchpkg` | No |
-| [Void Linux](https://voidlinux.org/) | `xbps` | No |
+| Name | Package Manager |
+| ---- | --------------- |
+| [Alpine Linux](https://alpinelinux.org/) | `apk` |
+| [Arch Linux](https://www.archlinux.org/) (and derivatives) | `pacman` |
+| [Ataraxia Linux](https://ataraxialinux.github.io/) | `neko` |
+| [CRUX](https://crux.nu/) | `pkgutils` |
+| [Gentoo](https://www.gentoo.org/) (and derivatives) | `emerge` (Portage) |
+| [KISS Linux](https://getkiss.org/)  | `kiss` |
+| [Venom Linux](https://venomlinux.org/) | `scratchpkg` |
+| [Void Linux](https://voidlinux.org/) | `xbps` |
